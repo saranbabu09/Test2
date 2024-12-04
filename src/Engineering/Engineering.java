@@ -17,6 +17,8 @@ public class Engineering extends University {
 			}
 
 		}
+		
+	System.out.println("123");
 
 		System.out.println(occurence);
 
